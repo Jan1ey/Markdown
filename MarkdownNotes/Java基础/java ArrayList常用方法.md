@@ -1,4 +1,4 @@
-#常用方法  
+被#常用方法  
 
 ·boolean add（Object obj）  
  将指定元素obj追加到集合的末尾  

@@ -1,4 +1,4 @@
-#String 方法  
+#String 中常用的方法  
 下面是 String 类支持的方法:  
   
 ·1	char charAt(int index)  
